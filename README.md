@@ -1,5 +1,5 @@
 <h1 align="">Hi there👋</h1>
-<h2 align="">I'm Milan</h2>
+<p>I'm Milan</p>
 
 - 📚 Student at **Faculty of Electrical Engineering, University of Belgrade**
 
