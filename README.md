@@ -7,7 +7,7 @@
 
 - 🌐 Occassionally doing some **web development**
 
-- 📫 How to reach me **milanradinovic@rocketmail.com** (or you can message me on discord: **mikiftw**)
+- 📫 How to reach me: **milanradinovic@rocketmail.com** (or you can message me on discord: **mikiftw**)
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
